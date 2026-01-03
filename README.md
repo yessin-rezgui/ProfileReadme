@@ -82,7 +82,7 @@ I design and build **scalable, secure, and high-performance applications** using
 ## 📫 Contact & Professional Links
 
 - 💼 **LinkedIn**: [Yessin Rezgui](https://www.linkedin.com/in/yessin-rezgui)
-- 💻 **GitHub**: https://github.com/your-username
+- 💻 **GitHub**: https://github.com/yessin-rezgui
 
 ---
 
